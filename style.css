@@ -1,0 +1,19 @@
+body{
+    font-family: 'Amatic SC', cursive;
+    background-color: mintcream;
+}
+
+.header{
+    background-color: rgb(200, 255, 239);
+    color:rgb(49, 54, 95);
+    font-family: 'Amatic SC', cursive;
+}
+
+.song_div{
+    margin: 35px;
+    padding-left: 15px;
+    color: steelblue;
+    background-color: mistyrose;
+    width: 400px;
+    height:200px;
+}
